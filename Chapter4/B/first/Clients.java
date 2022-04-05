@@ -11,6 +11,8 @@ public class Clients {
 		System.out.println("Total prise : " + rose.cost());
 		
 		
+		
+		
 	}
 }
 
